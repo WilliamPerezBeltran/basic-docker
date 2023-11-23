@@ -19,3 +19,5 @@ RUN       npm install
 EXPOSE $PORT
 
 ENTRYPOINT ["npm", "start"]
+
+

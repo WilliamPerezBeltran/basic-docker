@@ -1,10 +1,19 @@
+
+#source
+
+
+https://app.pluralsight.com/course-player?clipId=c0bb7e54-f9d0-43ea-81b2-b90dd25b3213
+https://app.pluralsight.com/library/courses/docker-web-developers/table-of-contents
+
+
+
 # Using a Container Volume for Logging
 
 ### Build the Image
 To build the image run the following command from the `LoggingToAVolume` folder:
 
 `docker build -t logging-to-a-volume .`
-
+ 
 ### Run the Container
 
 To run the container run with a custom volume location:
